@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Andrei Ohanesian [@implementareapi]
+- 👋 Hi, I’m Andrei Laurentiu [@implementareapi]
 - 👀 I’m interested in Custom Scripts Development
 - 🌱 I’m currently learning Ruby on Rails
 - 💞️ I’m looking to collaborate on custom projects and wordpress plugins
-- 📫 You can contact me via email andrei@lsx.ro
