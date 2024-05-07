@@ -15,7 +15,7 @@
 
 ## ᴄᴜʀʀᴇɴᴛʟʏ ᴡᴏᴋɪɴɢ ᴏɴ
 
-[![StarifyPRO](https://github.com/StarifyPRO)]
+[[StarifyPRO](https://github.com/StarifyPRO)]
 
 ## ᴍʏ ᴛᴇᴄʜ ꜱᴛᴀᴄᴋ
 
