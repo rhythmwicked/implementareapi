@@ -1,7 +1,7 @@
 # ʜɪ, ɪ'ᴍ ʀʜʏᴛʜᴍ
 
 [![](https://img.shields.io/badge/-@RhythmWick-%23181717?style=flat-square&logo=github)](https://github.com/RhythmWick)
-[![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=xlbd.me&url=https%3A%2F%2Fayoworld.online)](https://ayoworld.online)
+[![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=ayoworld.online&url=https%3A%2F%2Fayoworld.online)](https://ayoworld.online)
 [![](https://img.shields.io/badge/contact-me-blue?logo=discord&logoColor=white)](https://discordapp.com/users/1121853475697991720)
 
 
